@@ -1,0 +1,28 @@
+name: Michelin kompresoriai
+favicon: null
+layout_spectrum: 0.5061668916605413
+typography_spectrum: 0.2951593124307692
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7074063869658858
+  lightness: 0.45741731696762145
+  saturation: 0.3459553129505366
+  rhythmicContrast: 0.5550420128274709
+purpose: []
